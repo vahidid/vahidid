@@ -1,6 +1,6 @@
 
 <p>
-  <a href="https://app.daily.dev/ivahid"><img src="https://api.daily.dev/devcards/c7e283b8126f4b12abaed5c02669892c.png?r=c18" width="400" alt="Vahid Hasani's Dev Card"/></a>
+  <a href="https://app.daily.dev/ivahid" target="_blank"><img src="https://github.com/vahidid/vahidid/blob/master/devcard.svg" width="400" alt="Vahid Hasani's Dev Card"/></a>
   <img src='https://github-readme-stats.vercel.app/api?username=vahidid&show_icons=true&theme=merko&count_private=true'/>
 
 </p>
